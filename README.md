@@ -1,9 +1,10 @@
-<h5 align="left">- 👋 Hi, I’m Jose Fuentes and I identify myself in Git-Hub as @Xioeng. I am a Mathematician interested in several areas.<br>- 👀 I’m currently interested in and focusing my research on inverse problems, optimization, image processing, and robotics.<br>- 🌱 I’m currently pursuing a Ph.D. in Computer Sciences at Florida International University.<br>- 💞️ I’m looking to collaborate on topics related to AI robotics, numerical methods, and applied maths.</h5>
+<h5 align="left">- 👋 Hi, I’m Jose Fuentes. I am a Mathematician interested in several areas.<br>- 👀 I’m currently interested in and focusing my research on inverse problems, optimization, image processing, and robotics.<br>- 🌱 I’m currently pursuing a Ph.D. in Computer Sciences at Florida International University.<br>- 💞️ I’m looking to collaborate on topics related to AI robotics, numerical methods, and applied maths.</h5>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xioeng&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=Jose Fuentes' Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Xioeng&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xioeng&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
