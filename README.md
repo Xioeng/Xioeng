@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h5 align="left">- 👋 Hi, I’m Jose Fuentes. I am a Mathematician interested in several areas.<br>- 👀 I’m currently interested in and focusing my research on inverse problems, optimization, image processing, and robotics.<br>- 🌱 I’m currently pursuing a Ph.D. in Computer Sciences at Florida International University.<br>- 💞️ I’m looking to collaborate on topics related to AI robotics, numerical methods, and applied maths.</h5>
+<h3 align="left">- 👋 Hi, I’m Jose Fuentes. I am a Mathematician interested in several areas.<br>- 👀 I’m currently interested in and focusing my research on inverse problems, optimization, image processing, and robotics.<br>- 🌱 I’m currently pursuing a Ph.D. in Computer Sciences at Florida International University.<br>- 💞️ I’m looking to collaborate on topics related to AI robotics, numerical methods, and applied maths.</h5>
 
 ###
 
