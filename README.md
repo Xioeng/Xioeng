@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Xioeng/Xioeng/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Xioeng/Xioeng/output/snake.svg" alt="Generate snake animation" />
 
 ###
 
