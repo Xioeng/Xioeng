@@ -7,8 +7,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Xioeng&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]" height="250" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xioeng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Xioeng&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xioeng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -49,19 +49,12 @@
   </a>
 </div>
 
-###
-
-
-
-
-![Snake animation](https://github.com/Xioeng/Xioeng/output/github-contribution-grid-snake.svg)
-
-
 
 ###
 
-<br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ekyzexctmwda3o5hnfibl2f5xi&unique=true&width=600)
+
+  <!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ekyzexctmwda3o5hnfibl2f5xi&unique=true&width=400&height=300)-->
+
 
 ###
