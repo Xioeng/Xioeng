@@ -7,8 +7,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Xioeng&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xioeng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Xioeng&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xioeng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jose-fuentes-9604/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
@@ -53,16 +53,18 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Xioeng/Xioeng/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ekyzexctmwda3o5hnfibl2f5xi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ekyzexctmwda3o5hnfibl2f5xi&unique=true&width=600)
 
 ###
